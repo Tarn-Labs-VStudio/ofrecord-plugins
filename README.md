@@ -2,7 +2,7 @@
 
 The Of Record plugin for AI assistants: brief an executive search in a conversation, approve the research plan, and get a ranked shortlist in which every fact links to its source.
 
-This repository holds only the plugin (version 0.1.0): a skill and the connector settings. The research runs on the Of Record service at `https://ofrecord-service.vercel.app/mcp`.
+This repository holds only the plugin (version 0.2.0): a skill and the connector settings. The research runs on the Of Record service at `https://ofrecord-service.vercel.app/mcp`.
 
 ## Install
 

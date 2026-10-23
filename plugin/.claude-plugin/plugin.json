@@ -1,7 +1,7 @@
 {
   "name": "ofrecord",
   "displayName": "Of Record",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Brief an executive search from your AI assistant. Of Record researches real public profiles against the role and returns a ranked, fully sourced shortlist and report.",
   "author": {
     "name": "Tarn Labs",
