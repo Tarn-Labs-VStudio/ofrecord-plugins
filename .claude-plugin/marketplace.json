@@ -1,0 +1,17 @@
+{
+  "name": "ofrecord",
+  "owner": {
+    "name": "Tarn Labs",
+    "email": "vstudio@tarn-labs.com"
+  },
+  "description": "Of Record: executive search shortlists, researched and sourced, delivered in your AI assistant and by email.",
+  "plugins": [
+    {
+      "name": "ofrecord",
+      "source": "./plugin",
+      "description": "Brief an executive search from your AI assistant. Of Record researches real public profiles against the role and returns a ranked, fully sourced shortlist and report.",
+      "category": "productivity",
+      "tags": ["recruiting", "executive-search", "research"]
+    }
+  ]
+}

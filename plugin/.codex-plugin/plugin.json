@@ -1,0 +1,27 @@
+{
+  "name": "ofrecord",
+  "version": "0.1.0",
+  "description": "Brief an executive search from your AI assistant. Of Record researches real public profiles against the role and returns a ranked, fully sourced shortlist and report.",
+  "author": {
+    "name": "Tarn Labs",
+    "email": "vstudio@tarn-labs.com"
+  },
+  "homepage": "https://ofrecord.vercel.app",
+  "repository": "https://github.com/Tarn-Labs-VStudio/ofrecord",
+  "keywords": ["recruiting", "executive-search", "talent", "research", "shortlist"],
+  "skills": "./skills/",
+  "mcpServers": "./mcp.codex.json",
+  "interface": {
+    "displayName": "Of Record",
+    "shortDescription": "Executive search shortlists, researched and sourced",
+    "longDescription": "Describe the role you need to fill. Of Record writes a research plan for you to approve, researches real people with a public professional presence, and returns a ranked shortlist in which every fact links to its source. The full report also arrives by email as a PDF.",
+    "developerName": "Tarn Labs",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "websiteURL": "https://ofrecord.vercel.app",
+    "defaultPrompt": [
+      "Run an Of Record search for a Head of Tax in Abu Dhabi",
+      "Show my Of Record searches"
+    ]
+  }
+}

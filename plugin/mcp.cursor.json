@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "ofrecord": {
+      "url": "https://ofrecord-service.vercel.app/mcp"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "ofrecord",
+  "displayName": "Of Record",
+  "version": "0.1.0",
+  "description": "Brief an executive search from your AI assistant. Of Record researches real public profiles against the role and returns a ranked, fully sourced shortlist and report.",
+  "author": {
+    "name": "Tarn Labs",
+    "email": "vstudio@tarn-labs.com"
+  },
+  "homepage": "https://ofrecord.vercel.app",
+  "repository": "https://github.com/Tarn-Labs-VStudio/ofrecord",
+  "keywords": ["recruiting", "executive-search", "talent", "research", "shortlist"]
+}
