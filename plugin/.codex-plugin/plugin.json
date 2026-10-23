@@ -14,7 +14,7 @@
   "interface": {
     "displayName": "Of Record",
     "shortDescription": "Executive search shortlists, researched and sourced",
-    "longDescription": "Describe the role you need to fill. Of Record writes a research plan for you to approve, researches real people with a public professional presence, and returns a ranked shortlist in which every fact links to its source. The full report also arrives by email as a PDF.",
+    "longDescription": "Describe the role you need to fill. You confirm the brief once; Of Record writes a research plan, researches real people with a public professional presence, and returns a ranked shortlist in which every fact links to its source. The full report also arrives by email as a PDF.",
     "developerName": "Tarn Labs",
     "category": "Productivity",
     "capabilities": ["Read", "Write"],

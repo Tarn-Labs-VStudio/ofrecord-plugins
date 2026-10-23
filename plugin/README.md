@@ -1,6 +1,6 @@
 # Of Record
 
-Run an executive search from a conversation with your AI assistant: Claude, ChatGPT, Codex, Cursor, or any assistant that supports remote MCP connectors. Describe the role you need to fill. Of Record writes a research plan for you to approve, researches real people with a public professional presence against your brief, and returns a ranked shortlist in which every stated fact links to its source. The full report also arrives by email as a print-ready PDF.
+Run an executive search from a conversation with your AI assistant: Claude, ChatGPT, Codex, Cursor, or any assistant that supports remote MCP connectors. Describe the role you need to fill. You confirm the brief once; Of Record writes a research plan, researches real people with a public professional presence against your brief, and returns a ranked shortlist in which every stated fact links to its source. The full report also arrives by email as a print-ready PDF.
 
 ## What is in this plugin
 
@@ -35,7 +35,7 @@ Then describe the role, for example: "Find a Chief Financial Officer for a utili
 
 ## Cost
 
-Searches are quoted per search. Nothing runs, and nothing is charged, until you approve the research plan. A search that fails Of Record's quality check is held for review and is not charged.
+Searches are quoted per search. Nothing runs, and nothing is charged, until you confirm the brief. If you would rather approve the research plan before any research, ask your assistant to show you the plan first. A search that fails Of Record's quality check is held for review and is not charged.
 
 ## Privacy and support
 
