@@ -17,9 +17,9 @@ The plugin contains no research code and runs nothing on your computer. The rese
 Add the connector, sign in, then describe the role.
 
 - **Claude (web, desktop, mobile):** Settings → Connectors → Add custom connector, with the URL above.
-- **Claude Code:** install this plugin from its marketplace.
+- **Claude Code:** `/plugin marketplace add Tarn-Labs-VStudio/ofrecord-plugins`, then `/plugin install ofrecord@ofrecord`.
 - **ChatGPT:** with developer mode on, create a connector with the URL above and OAuth sign-in. Starting a search is a write action, so it needs a ChatGPT plan with full MCP support.
-- **Codex:** `codex mcp add ofrecord --url https://ofrecord-service.vercel.app/mcp`, then `codex mcp login ofrecord`. Or install this plugin from its marketplace.
+- **Codex:** `codex mcp add ofrecord --url https://ofrecord-service.vercel.app/mcp`, then `codex mcp login ofrecord`. Or install the plugin: `codex plugin marketplace add https://github.com/Tarn-Labs-VStudio/ofrecord-plugins`, then `codex plugin add ofrecord@ofrecord`.
 - **Any other MCP client:** add the URL as a remote (streamable HTTP) server with OAuth.
 
 Signing in: enter your work email on the Of Record page that opens, then type the code we email you. No password.
